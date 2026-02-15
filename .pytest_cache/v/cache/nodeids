@@ -1,0 +1,5 @@
+[
+  "tests/test_metrics.py::test_confusion_matrix",
+  "tests/test_metrics.py::test_precision_recall",
+  "tests/test_roc.py::test_auc_range"
+]
